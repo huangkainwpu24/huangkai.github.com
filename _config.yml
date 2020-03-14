@@ -6,24 +6,24 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: bindog study
-brief-intro: Machine Learning & Security
+title: 千暮云兮
+brief-intro: Deep Learning & Few-Shot Learning
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bindog.github.io" # the base hostname & protocol for your site
+url: "https://huangkai.github.io" # the base hostname & protocol for your site
 
 permalink: blog/:year/:month/:day/:title/
 
 # other links
-twitter_username: bindog
-facebook_username: bindog
-github_username:  bindog
-email: bindog@outlook.com
-weibo_username: wu
-zhihu_username: wu
-linkedIn_username: bindog
+twitter_username: 
+facebook_username: 
+github_username: huangkainwpu24
+email: huangkainwpu@126.com
+weibo_username: 
+zhihu_username:
+linkedIn_username: huangkai
 dribbble_username:
 
-description_footer: V2EX
+description_footer: 学无止境，境无深浅！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -35,7 +35,7 @@ description_footer: V2EX
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 080b55b6db602a74eb162ffca24da6e1
+# baidu_tongji_id: 080b55b6db602a74eb162ffca24da6e1
 # google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
